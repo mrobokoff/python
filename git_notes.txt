@@ -1,3 +1,6 @@
+
+cd C:\Users\mrobokoff\python
+
 git init
 git status
 git add <file>
@@ -35,5 +38,7 @@ git push
 
 git remote add origin https://github.com/mrobokoff/python.git
 git pull origin master
+git add <file or dir> 
+git commit -m "comment"
 git push -u origin master
 
